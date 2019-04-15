@@ -1,6 +1,6 @@
 {
   "name": "pomelo-logger-es6",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -15,8 +15,8 @@
     "url": "git+https://github.com/NetEase/pomelo-logger-es6.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "wangkm",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/NetEase/pomelo-logger-es6/issues"
   },
