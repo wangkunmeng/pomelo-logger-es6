@@ -1,0 +1,30 @@
+{
+  "appenders": {
+    "console": {
+      "type": "console"
+    },
+    "rpc-log": {
+      "type": "file",
+      "filename": "./logs/rpc-log-${opts:serverId}.log",
+      "maxLogSize": 1048576,
+      "backups": 5
+    }
+  },
+  "categories": {
+    "default": {
+      "appenders": [
+        "console"
+      ],
+      "level": "debug"
+    },
+    "rpc-log": {
+      "appenders": [
+        "rpc-log",
+        "console"
+      ],
+      "level": "error"
+    }
+  },
+  "rawMessage": false,
+  "lineDebug": true
+}
