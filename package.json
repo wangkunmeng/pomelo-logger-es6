@@ -4,23 +4,22 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NetEase/pomelo-logger-es6.git"
+    "url": "git+https://github.com/wangkunmeng/pomelo-logger-es6.git"
   },
   "keywords": [],
   "author": "wangkm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NetEase/pomelo-logger-es6/issues"
+    "url": "https://github.com/wangkunmeng/pomelo-logger-es6/issues"
   },
-  "homepage": "https://github.com/NetEase/pomelo-logger-es6#readme",
+  "homepage": "https://github.com/wangkunmeng/pomelo-logger-es6#readme",
   "dependencies": {
     "log4js": "^4.1.0"
   }
