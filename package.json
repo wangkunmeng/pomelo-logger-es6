@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/wangkunmeng/pomelo-logger-es6#readme",
   "dependencies": {
-    "log4js": "^4.1.0"
+    "log4js": "^6.0.0"
   }
 }
